@@ -2,8 +2,7 @@ body {
   min-height: 3000px;
 }
 .jumbotron {
-  padding-top: 145px;
-  padding-bottom: 250px;
+  padding-top: 6rem;
   background-color: rgb(246, 231, 231);
 }
 
