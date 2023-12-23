@@ -21,6 +21,7 @@ section {
 .material.icons.md-64 { font-size: 64px; }
 }
 
-.selector-for-some-widget {
-  box-sizing: content-box;
+.px-0 {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
