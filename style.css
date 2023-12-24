@@ -25,3 +25,7 @@ section {
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
+
+.mx-2 {
+  margin-left: ($spacer * .5) !important;
+  margin-right: ($spacer * .5) !important;
