@@ -1,5 +1,5 @@
 body {
-  min-height: 3000px;
+  min-height: 2300px;
 }
 .jumbotron {
   padding-top: 10rem;
@@ -7,7 +7,7 @@ body {
 }
 
 #blog {
-  background-color: rgb(157, 193, 131);
+  background-color: #9dc183;
 }
 
 section {
