@@ -1,5 +1,6 @@
 body {
   min-height: 3000px;
+  overflow-x: hidden;
 }
 .jumbotron {
   padding-top: 10rem;
@@ -29,3 +30,5 @@ section {
 .mx-2 {
   margin-left: ($spacer * .5) !important;
   margin-right: ($spacer * .5) !important;
+
+  
